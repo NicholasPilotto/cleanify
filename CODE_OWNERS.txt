@@ -1,0 +1,11 @@
+This file is a list of the people responsible for ensuring that patches for a
+particular part of Cleanify are reviewed, either by themselves or by someone else.
+They are also the gatekeepers for their part of Cleanify, with the final word on
+what goes in or not.
+
+The list is sorted by surname and formatted to allow easy grepping and
+beautification by scripts.  The fields are: name (N), GitHub account (G), description (D).
+
+N: Pilotto Nicholas
+G: NicholasPilotto
+D: Repo owner and Cleanify creator
