@@ -8,4 +8,4 @@ When we delete an app directly from ```Application``` folder, we are deleting it
 Here is where ```Cleanify``` comes to help us!
 
 ## Contributing
-if you want to contribute to this project, please read ```CODE_OF_CONDUCT``` file.
+if you want to contribute to this project, please read [CODE_OF_CONDUCT](https://github.com/NicholasPilotto/cleanify/blob/develop/CODE_OF_CONDUCT.md) file.
