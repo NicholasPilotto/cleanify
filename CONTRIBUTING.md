@@ -7,3 +7,6 @@ The default branch is ```develop```. Here is where developing is situated. In th
 ### Features
 Every new feature starts in its ```feature``` branch. When the code is ready (and tested) it will be merged in ```develop``` branch.
 When the code is mature, ```release``` branch is created and, after tests, it will be merged into ```main```.
+
+### Hotfixes
+```hotfix``` branches save us from bug in production. In facts, when a bug needs to be solved immidiately, we create an ```hotfix``` branch, solve the error and merge it on ```main``` branch.
