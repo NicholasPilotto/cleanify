@@ -9,3 +9,8 @@ Here is where ```Cleanify``` comes to help us!
 
 ## Contributing
 if you want to contribute to this project, please read [Code of Conduct](https://github.com/NicholasPilotto/cleanify/blob/develop/CODE_OF_CONDUCT.md) and [Contributing](https://github.com/NicholasPilotto/cleanify/blob/develop/CONTRIBUTING.md) file.
+
+
+## Thanks to...
+In this repo are used project or ideas:
+- Repo template : [Josee9988](https://github.com/Josee9988/project-template)
