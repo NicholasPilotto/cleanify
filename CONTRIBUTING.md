@@ -10,3 +10,6 @@ When the code is mature, ```release``` branch is created and, after tests, it wi
 
 ### Hotfixes
 ```hotfix``` branches save us from bug in production. In facts, when a bug needs to be solved immidiately, we create an ```hotfix``` branch, solve the error and merge it on ```main``` branch.
+
+## Issues
+Anyone can create an issue. Issues are used to report bugs, questions and suggest new feature. <br>
