@@ -13,4 +13,5 @@ if you want to contribute to this project, please read [Code of Conduct](https:/
 
 ## Thanks to...
 In this repo are used project or ideas:
-- Repo template : [Josee9988](https://github.com/Josee9988/project-template)
+- Repo template: [Josee9988](https://github.com/Josee9988/project-template)
+- Swift code formatting: [Swiftformat](https://github.com/nicklockwood/SwiftFormat)
