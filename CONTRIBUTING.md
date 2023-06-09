@@ -28,4 +28,4 @@ hotfix/production-bug
 ```
 
 ## Tests
-Every feature must be tested before open a ```pull request```
+Every feature must be tested before open a ```pull request```. You can write your own ```unit tests``` and you are free to choose between normal programming or _TDD_ (**T**est **D**riven **D**evelopment).
