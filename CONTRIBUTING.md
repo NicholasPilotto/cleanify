@@ -18,7 +18,14 @@ When we are working on a ```release``` branch and we want to solve a bug, we for
 ```hotfix``` branches save us from bug in production. In facts, when a bug needs to be solved immidiately, we create an ```hotfix``` branch, solve the error and merge it on ```main``` branch.
 
 ### Naming
-Every branch name must starts with its category, followed by the name of the action we want to implement in kebab case, e.g.
+Every branch name must starts with its category, followed by the name of the action we want to implement in **kebab** case, e.g.
 ```
 feature/new-feature-to-add
 ```
+or
+```
+hotfix/production-bug
+```
+
+## Tests
+Every feature must be tested before open a ```pull request```
