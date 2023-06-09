@@ -6,7 +6,19 @@ The default branch is ```develop```. Here is where developing is situated. In th
 
 ### Features
 Every new feature starts in its ```feature``` branch. When the code is ready (and tested) it will be merged in ```develop``` branch.
-When the code is mature, ```release``` branch is created and, after tests, it will be merged into ```main```.
+
+### Releases
+When code is mature, all issues scheduled for current ```milestone``` are closed, ```develop``` branch is fork in a ```release``` branch. In these branches we do not add new features, but only bug fixes. <br>
+Once everything is ready, ```release``` branch gets merged into ```main``` and tagged with a version number.
+
+### Fixes
+When we are working on a ```release``` branch and we want to solve a bug, we fork a ```fix``` branch starting by ```release``` and merge into it when bug is solved.
 
 ### Hotfixes
 ```hotfix``` branches save us from bug in production. In facts, when a bug needs to be solved immidiately, we create an ```hotfix``` branch, solve the error and merge it on ```main``` branch.
+
+### Naming
+Every branch name must starts with its category, followed by the name of the action we want to implement in kebab case, e.g.
+```
+feature/new-feature-to-add
+```
