@@ -31,3 +31,19 @@ hotfix/production-bug
 Every feature must be tested before open a ```pull request```. You can write your own ```unit tests``` and you are free to choose between normal programming or _TDD_ (**T**est **D**riven **D**evelopment).
 
 ## Open an Issue
+If you want to report a bug or an issue, you can open an ```issue``` and tell us want went wrong. <br>
+An administrator will read it and mark it with one of this label:
+
+- Bug: there is a bug
+- Duplicate: the issue is duplicated
+- Discussion: the issue can be discussed
+- Feature: new feature to add
+- Invalid: the segnalation is invalid or incomplete
+- Question: someone has a question
+- Security: bug on software security
+- Test: something need a test
+- Wontfix: the issue will not be fixed
+- Priority high: the issue is urgent
+- Priority low: the issue can be overlooked
+
+depending on what you are reporting.
