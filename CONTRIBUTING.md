@@ -47,3 +47,9 @@ An administrator will read it and mark it with one of this label:
 - Priority low: the issue can be overlooked
 
 depending on what you are reporting.
+
+## Code style and linting
+To contribute to this repo, you have to follow a defined code style.
+In fact, there is a file named ```.swift-format``` that defines all the rules that style the code. This file can be read and use by a [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) to format the code of the project.
+
+Another tool is [SwiftLint](https://github.com/realm/SwiftLint). This is used in a building command. If your code does not respect the rules present in ```.swiftlint.yml```, the build phase does not compile successfully and the build will be failed.
